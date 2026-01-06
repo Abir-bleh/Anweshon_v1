@@ -1,0 +1,6 @@
+@Anweshon.Api_HostAddress = http://localhost:5079
+
+GET {{Anweshon.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
